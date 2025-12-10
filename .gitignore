@@ -43,4 +43,14 @@ wheels/
 *.pkl
 *.h5
 *.model
+*.npy
+
+# AutoML артефакты
+AutogluonModels/
+baseline_output/
+catboost_info/
+
+# Результаты и визуализации
+submission_*.csv
+*.png
 
