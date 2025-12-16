@@ -1,0 +1,11 @@
+venv/
+env/
+ENV/
+catboost_info/
+lightgbm_models/
+xgboost_models/
+autogluon_models/
+models/
+*.pkl
+*.npy
+*.model
